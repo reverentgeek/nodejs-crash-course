@@ -23,6 +23,7 @@ Why Developers Love Node.js & what's their main issue with it? 2018 Survey Resul
 
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs/) - Curated list of Node.js packages and resources
 * [Learn Node!](https://learnnode.com/) - Excellent video training course from [Wes Bos](https://twitter.com/wesbos)
+* [Node Hackathon Starter](https://github.com/sahat/hackathon-starter)
 * [Nodeschool](https://nodeschool.io/)
 * [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
 * ["Node.js 8 the Right Way"](https://pragprog.com/book/jwnode2/node-js-8-the-right-way) by Jim R. Wilson
