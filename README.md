@@ -39,5 +39,5 @@ Why Developers Love Node.js & what's their main issue with it? 2018 Survey Resul
 * [nexe](https://www.npmjs.com/package/nexe) - Complile command-line applications into a single executable
 * [jest](https://facebook.github.io/jest/) - JavaScript testing framework
 * [testdouble.js](https://www.npmjs.com/package/testdouble) - testing and mocking library
-
+* [nodeframework.com](http://nodeframework.com/) - curated list of popular frameworks and stacks
 
