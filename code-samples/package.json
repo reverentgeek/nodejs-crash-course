@@ -8,10 +8,7 @@
   },
   "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-leankit": "^4.5.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "seriate": "^0.13.1"
   }
