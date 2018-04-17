@@ -29,6 +29,7 @@ Why Developers Love Node.js & what's their main issue with it? 2018 Survey Resul
 * ["Node.js 8 the Right Way"](https://pragprog.com/book/jwnode2/node-js-8-the-right-way) by Jim R. Wilson
 * ["Node.js in Action"](https://www.manning.com/books/node-js-in-action-second-edition) by Alex Young, Bradley Meck, and Mike Cantelon 
 * ["Node Cookbook"](https://www.packtpub.com/web-development/node-cookbook-third-edition) by David Mark Clements, Matthias Buus, Matteo Collina, Peter Elger
+* ["Dockerizing a Node.js web app"](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 ## Recommended Modules and Tools
 
