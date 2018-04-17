@@ -9,7 +9,5 @@
   "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
   "license": "MIT",
   "devDependencies": {},
-  "dependencies": {
-    "seriate": "^0.13.1"
-  }
+  "dependencies": {}
 }
