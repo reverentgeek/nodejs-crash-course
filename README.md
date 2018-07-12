@@ -1,6 +1,7 @@
 # Node.js Crash Course
 
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
+* [Makin' Bacon](https://github.com/reverentgeek/node-bacon-generator) bacon ipsum generator demo app
 * [About me](https://about.me/reverentgeek) | [reverentgeek.com](http://reverentgeek.com) | [@reverentgeek](https://twitter.com/reverentgeek)
 
 ## Install Node.js
