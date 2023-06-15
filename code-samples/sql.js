@@ -5,11 +5,11 @@ const config = { server: "127.0.0.1", user: "user1", password: "mypass", databas
 sql.setDefaultConfig( config );
 
 sql.execute( {
-	query: "SELECT userId, email FROM accounts"
+  query: "SELECT userId, email FROM accounts"
 } ).then( function( results ) {
-	// Do something with the results
-	console.log( results );
+  // Do something with the results
+  console.log( results );
 } ).catch( function( err ) {
-	console.log( "Something bad happened:", err );
+  console.log( "Something bad happened:", err );
 } );
 

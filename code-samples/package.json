@@ -8,6 +8,8 @@
   },
   "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
   "license": "MIT",
-  "devDependencies": {},
-  "dependencies": {}
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-reverentgeek": "^3.2.2"
+  }
 }
