@@ -1,15 +1,20 @@
-const sql = require( "seriate" );
+const sql = require( "mssql" );
 
-// Read from environment variables or local config file
-const config = { server: "127.0.0.1", user: "user1", password: "mypass", database: "mydb" };
-sql.setDefaultConfig( config );
+// Read from environment variables
+const cnx = process.env.SQL_CONNECTION;
 
-sql.execute( {
-  query: "SELECT userId, email FROM accounts"
-} ).then( function( results ) {
-  // Do something with the results
-  console.log( results );
-} ).catch( function( err ) {
-  console.log( "Something bad happened:", err );
-} );
+async function getAccountByEmail( email ) {
+  try {
+    const pool = await sql.connect( cnx );
+    const result = await pool.request()
+      .input( "email", sql.VarChar( 100 ), email )
+      .query( "select * from accounts where email = @email" );
+    return result;
+  } catch ( err ) {
+    // log error
+  }
+}
 
+module.exports = {
+  getAccountByEmail
+};
