@@ -10,6 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.42.0",
-    "eslint-config-reverentgeek": "^3.2.2"
+    "eslint-config-reverentgeek": "^4.0.0"
   }
 }
