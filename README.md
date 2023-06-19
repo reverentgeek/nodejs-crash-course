@@ -6,6 +6,8 @@
 * [Makin' Bacon](https://github.com/reverentgeek/node-bacon-generator) bacon ipsum generator demo app
 * [About me](https://reverentgeek.com/about/)
 
+[Free 30 days of online learning with Pluralsight!](https://www.pluralsight.com/redeemlink/genericV4?redemptionId=268fb603-f75f-42f6-a416-08ca9485e9dc)
+
 ## Install Node.js
 
 * Use [nvm](https://github.com/nvm-sh/nvm) on Mac, Linux, or Windows Subsystem for Linux (WSL)!
