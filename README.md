@@ -8,6 +8,12 @@
 
 [Free 30 days of online learning with Pluralsight!](https://www.pluralsight.com/redeemlink/genericV4?redemptionId=268fb603-f75f-42f6-a416-08ca9485e9dc)
 
+## Node Help!
+
+* [Node.js Slack Community](https://node-js.slack.com/)
+* [#nodejs channel on OpenJS Foundation Slack](https://slack-invite.openjsf.org/)
+* [nodejs/help](https://github.com/nodejs/help)
+
 ## Install Node.js
 
 * Use [nvm](https://github.com/nvm-sh/nvm) on Mac, Linux, or Windows Subsystem for Linux (WSL)!
