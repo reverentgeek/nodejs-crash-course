@@ -1,4 +1,4 @@
-# The Illustrated Guide to Node.js
+# Resources for The Illustrated Guide to Node.js
 
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
 * [Makin' Bacon](https://github.com/reverentgeek/node-bacon-generator) bacon ipsum generator demo app
