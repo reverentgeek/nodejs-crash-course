@@ -1,12 +1,8 @@
-# Node.js Crash Course
-
-[Catch me streaming](https://www.twitch.tv/pluralsight_live) each week on topics like Node.js, JavaScript, Electron, and front-end dev!
+# The Illustrated Guide to Node.js
 
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
 * [Makin' Bacon](https://github.com/reverentgeek/node-bacon-generator) bacon ipsum generator demo app
 * [About me](https://reverentgeek.com/about/)
-
-[Free 30 days of online learning with Pluralsight!](https://www.pluralsight.com/redeemlink/genericV4?redemptionId=268fb603-f75f-42f6-a416-08ca9485e9dc)
 
 ## Node Help!
 
