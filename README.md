@@ -4,6 +4,10 @@
 * [Makin' Bacon](https://github.com/reverentgeek/node-bacon-generator) bacon ipsum generator demo app
 * [About me](https://reverentgeek.com/about/)
 
+## Why Node?
+
+* [Node.js is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
+
 ## Node Help!
 
 * [Node.js Slack Community](https://node-js.slack.com/)
