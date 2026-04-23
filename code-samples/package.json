@@ -9,7 +9,7 @@
   "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^9.39.1",
-    "eslint-config-reverentgeek": "^6.3.2"
+    "eslint": "^10.2.1",
+    "eslint-config-reverentgeek": "^7.1.4"
   }
 }
